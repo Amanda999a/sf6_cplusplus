@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE8648-2371-4A4B-A8EC-C7DB4C2FB5C9}|MyFunctions.vcxproj|C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\MyFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7AE8648-2371-4A4B-A8EC-C7DB4C2FB5C9}|MyFunctions.vcxproj|solutionrelative:MyFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE8648-2371-4A4B-A8EC-C7DB4C2FB5C9}|MyFunctions.vcxproj|C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\Myfun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7AE8648-2371-4A4B-A8EC-C7DB4C2FB5C9}|MyFunctions.vcxproj|solutionrelative:Myfun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AE8648-2371-4A4B-A8EC-C7DB4C2FB5C9}|MyFunctions.vcxproj|C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\MathOperations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7AE8648-2371-4A4B-A8EC-C7DB4C2FB5C9}|MyFunctions.vcxproj|solutionrelative:MathOperations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathOperations.h",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\MathOperations.h",
+              "RelativeDocumentMoniker": "MathOperations.h",
+              "ToolTip": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\MathOperations.h",
+              "RelativeToolTip": "MathOperations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T08:01:12.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Myfun.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\Myfun.cpp",
+              "RelativeDocumentMoniker": "Myfun.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\Myfun.cpp",
+              "RelativeToolTip": "Myfun.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T08:01:41.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFunctions.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\MyFunctions.cpp",
+              "RelativeDocumentMoniker": "MyFunctions.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\241030_d03\\241031_d04\\MyFunctions\\MyFunctions.cpp",
+              "RelativeToolTip": "MyFunctions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T08:00:51.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
