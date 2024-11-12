@@ -1,7 +1,4 @@
-﻿// 실습3.로그인성공시전화번호등록.cpp : 이 파일에는 'main' 함수가 포함됩니다. 거기서 프로그램 실행이 시작되고 종료됩니다.
-//
-
-#include <iostream>
+﻿#include <iostream>
 #include <string>
 #include <vector>
 #include <fstream>
@@ -51,42 +48,49 @@ int main() {
 
 	// 로그인 성공 여부 확인
 	if (check) {
-		string tel;
-		string name;
 		cout << "로그인 성공" << endl;
 
+		// 전화번호 입력
+		string phone;
+		cout << "전화번호를 입력해주세요 : ";
+		cin >> phone;
 
-		ofstream outFile("member_tel.txt");
+		fstream telFile("member_tel.txt", ios::in | ios::out);
 
-		if (!outFile) {
+		if (!telFile) {
 			cout << "파일을 열 수 없습니다." << endl;
 			return 0;
 		}
+
 		bool check_phone = false;
 		string tel_line;
-
-		while (getline(telFile, tel_line)){
-			telFile.tellg(); //깜박이는 위치를 나타냄(다 지우지 않고 해당줄의 입력을 해주기 위해서)
-			int spacePos = line.find(' ');
+		while (getline(telFile, tel_line)) {
+			long pos = telFile.tellg();// 현재 위치
+			int spacePos_tel = tel_line.find(' ');
 
 			// 이름 확인
-			string name_tel = line.substr(0, spacePos);
-			if()
+			string name_tel = tel_line.substr(0, spacePos_tel);
+			if (name_tel == inputName) {
+				check_phone = true;
+				//그 라인의 맨 앞으로 커서 이동
+				telFile.seekp(pos - tel_line.length() - 1);
+				telFile << inputName << " " << phone << endl;
+				break;
+			}
+		}
+		// 사용자가 존재하지 않으면 파일 끝에 추가
+		if (!check_phone) {
+			telFile.clear(); // EOF 플래그 지우기
+			telFile.seekp(0, ios::end); // 파일 끝으로 커서 이동
+			telFile << inputName << " " << phone << endl;
+		}
 
+		telFile.close(); // 파일 닫기
+		cout << "전화번호가 저장되었습니다." << endl;
+	}
 	else {
 		cout << "로그인 실패" << endl;
 	}
 
 	return 0;
 }
-
-// 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
-// 프로그램 디버그: <F5> 키 또는 [디버그] > [디버깅 시작] 메뉴
-
-// 시작을 위한 팁: 
-//   1. [솔루션 탐색기] 창을 사용하여 파일을 추가/관리합니다.
-//   2. [팀 탐색기] 창을 사용하여 소스 제어에 연결합니다.
-//   3. [출력] 창을 사용하여 빌드 출력 및 기타 메시지를 확인합니다.
-//   4. [오류 목록] 창을 사용하여 오류를 봅니다.
-//   5. [프로젝트] > [새 항목 추가]로 이동하여 새 코드 파일을 만들거나, [프로젝트] > [기존 항목 추가]로 이동하여 기존 코드 파일을 프로젝트에 추가합니다.
-//   6. 나중에 이 프로젝트를 다시 열려면 [파일] > [열기] > [프로젝트]로 이동하고 .sln 파일을 선택합니다.
