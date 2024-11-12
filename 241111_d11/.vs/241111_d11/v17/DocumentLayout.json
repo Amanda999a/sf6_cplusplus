@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241111_d11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C38ADCD-D038-4D27-B6AD-350B6D61D63A}|\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.vcxproj|C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241111_d11\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C38ADCD-D038-4D27-B6AD-350B6D61D63A}|\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.vcxproj|solutionrelative:\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241111_d11\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp",
+              "RelativeDocumentMoniker": "\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241111_d11\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp",
+              "RelativeToolTip": "\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D\\\uC2E4\uC2B53.\uB85C\uADF8\uC778\uC131\uACF5\uC2DC\uC804\uD654\uBC88\uD638\uB4F1\uB85D.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T07:49:41.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
