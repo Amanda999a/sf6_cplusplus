@@ -1,0 +1,7 @@
+﻿  241115_desingpatternVer.cpp
+C:\Users\UserK\sf6_ai\c++\c++\241115_project\241115_desingpatternVer\241115_desingpatternVer.cpp(142,21): error C2280: 'std::unique_ptr<Branch,std::default_delete<Branch>>::unique_ptr(const std::unique_ptr<Branch,std::default_delete<Branch>> &)': 삭제된 함수를 참조하려고 합니다.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3451,5):
+      'std::unique_ptr<Branch,std::default_delete<Branch>>::unique_ptr' 선언을 참조하십시오.
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\memory(3451,5):
+      'std::unique_ptr<Branch,std::default_delete<Branch>>::unique_ptr(const std::unique_ptr<Branch,std::default_delete<Branch>> &)': 함수가 명시적으로 삭제되었습니다.
+  

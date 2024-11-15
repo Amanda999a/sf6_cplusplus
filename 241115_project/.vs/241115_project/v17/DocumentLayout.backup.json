@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CCB067-4285-4437-BA67-9F7ED7B4D4A2}|241115_desingpatternVer\\241115_desingpatternVer.vcxproj|C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\241115_desingpatternVer\\241115_desingpatternVer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26CCB067-4285-4437-BA67-9F7ED7B4D4A2}|241115_desingpatternVer\\241115_desingpatternVer.vcxproj|solutionrelative:241115_desingpatternVer\\241115_desingpatternVer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB8CBCD-2E3B-4D06-B7CE-52EE2AA686E1}|241115_project.vcxproj|C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\241115_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CB8CBCD-2E3B-4D06-B7CE-52EE2AA686E1}|241115_project.vcxproj|solutionrelative:241115_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "241115_desingpatternVer.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\241115_desingpatternVer\\241115_desingpatternVer.cpp",
+              "RelativeDocumentMoniker": "241115_desingpatternVer\\241115_desingpatternVer.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\241115_desingpatternVer\\241115_desingpatternVer.cpp",
+              "RelativeToolTip": "241115_desingpatternVer\\241115_desingpatternVer.cpp",
+              "ViewState": "AgIAADUBAAAAAAAAAADwvzoBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T11:36:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "241115_project.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\241115_project.cpp",
+              "RelativeDocumentMoniker": "241115_project.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf6_ai\\c\u002B\u002B\\c\u002B\u002B\\241115_project\\241115_project.cpp",
+              "RelativeToolTip": "241115_project.cpp",
+              "ViewState": "AgIAAAEBAAAAAAAAAADwvxABAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T07:32:13.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
