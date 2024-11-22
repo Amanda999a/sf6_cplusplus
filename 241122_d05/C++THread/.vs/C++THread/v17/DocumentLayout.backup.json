@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserK\\sf_db\\241122_d05\\C\u002B\u002BTHread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CABFC27-B9D2-44B5-988E-CEA7726E17DB}|..\\atomic\\atomic.vcxproj|C:\\Users\\UserK\\sf_db\\241122_d05\\atomic\\atomic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC1FD52-3480-4C4A-82ED-1B6DDAB97240}|..\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.vcxproj|C:\\Users\\UserK\\sf_db\\241122_d05\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4081650A-2D01-4E71-837F-553999B3F20B}|..\\mutex\\mutex.vcxproj|C:\\Users\\UserK\\sf_db\\241122_d05\\mutex\\mutex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf_db\\241122_d05\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.cpp",
+              "RelativeDocumentMoniker": "..\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf_db\\241122_d05\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.cpp",
+              "RelativeToolTip": "..\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30\\\uC2E4\uC2B52.\uACF5\uC720\uC790\uC6D0\uBCF4\uD638\uD558\uAE30.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T07:45:51.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "atomic.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf_db\\241122_d05\\atomic\\atomic.cpp",
+              "RelativeDocumentMoniker": "..\\atomic\\atomic.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf_db\\241122_d05\\atomic\\atomic.cpp*",
+              "RelativeToolTip": "..\\atomic\\atomic.cpp*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T08:14:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mutex.cpp",
+              "DocumentMoniker": "C:\\Users\\UserK\\sf_db\\241122_d05\\mutex\\mutex.cpp",
+              "RelativeDocumentMoniker": "..\\mutex\\mutex.cpp",
+              "ToolTip": "C:\\Users\\UserK\\sf_db\\241122_d05\\mutex\\mutex.cpp",
+              "RelativeToolTip": "..\\mutex\\mutex.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T07:17:59.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
